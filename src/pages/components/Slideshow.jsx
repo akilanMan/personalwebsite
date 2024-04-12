@@ -25,7 +25,7 @@ const Slideshow = () => {
                     <a href="#">
                         <h5 className="mb-2 text-2xl font-bold tracking-tight text-[#E8EDDF]">Netflix Clone</h5>
                     </a>
-                    <p className="mb-3 font-normal text-[#E8EDDF]"></p>
+                    <p className="mb-3 font-normal text-[#E8EDDF]">Using react.js, I implemented a clone of the netflix interface with attractive animations and design. I used an API that used realtime data regarding Top 10 Movies, tv shows, images, descriptions, etc. This project helped get my fundamentals in web-development and API accessing. Hosted on the Google Firebase server.</p>
                     <a href="#" className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-black bg-[#987feb] rounded-lg hover:bg-[#e6ad0f] focus:ring-4 focus:outline-none focus:ring-[#987feb]">
                         Read More
                     </a>

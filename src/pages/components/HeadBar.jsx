@@ -35,7 +35,6 @@ const HeadBar = () => {
                         <li><a href="#">Home</a></li>
                         <li><a href="#career">Career</a></li>
                         <li><a href="#projects">Projects</a></li>
-                        <li><a href="#footer">Page 4</a></li>                        
                         <li><a href=''>Resume</a></li>
                         </ul>
                     </nav> 

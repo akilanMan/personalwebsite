@@ -44,7 +44,7 @@ const Timeline = () => {
                     <div className="w-5 h-5 bg-[#4719e0 ] absolute -left-10 transform -translate-x-2/4 rounded-full z-10 mt-2 md:mt-0"></div>
 
                     {/* <!-- Line that connecting the box with the vertical line --> */}
-                    <div className="w-10 h-1 bg-pink-300 absolute -left-10 z-0"></div>
+                    <div className="w-10 h-1 bg-blue-300 absolute -left-10 z-0"></div>
 
                     {/* <!-- Content that showing in the box --> */}
                     <div className="flex-auto">
@@ -55,7 +55,7 @@ const Timeline = () => {
                     <section href="#" className="text-center text-[#333533]">Full Stack</section>
                 </div>
             </div>
-            <section className="mt-4 text-xl text-center text-[#CFDBD5]">But the journey doesn't end there </section>
+            <section className="mt-4 text-xl text-center text-[#CFDBD5]">But the journey does not end there </section>
         </div>
     );
 };
